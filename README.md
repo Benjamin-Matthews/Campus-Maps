@@ -7,6 +7,8 @@ The product that we are developing will be used by students of the University of
 ## System Requirements
 Windows
 
+Mac not supported and will cause bugs
+
 ## Libraries
 These collections of libraries were used in the project
 
