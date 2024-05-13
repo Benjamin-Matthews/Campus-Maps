@@ -4,6 +4,8 @@
 
 The product that we are developing will be used by students of the University of Western Ontario as a navigation tool. This application will provide a useful toolkit for browsing building maps, and setting personalized waypoints. User data for waypoints will be persistent and saved in their system files, where they can log back in, and access them at a later date. Western students who use the application will have an easier time locating their classes, and other rooms as they attend school.
 
+## System Requirements
+Windows
 
 ## Libraries
 These collections of libraries were used in the project
